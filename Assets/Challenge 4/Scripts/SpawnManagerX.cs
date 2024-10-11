@@ -12,7 +12,7 @@ public class SpawnManagerX : MonoBehaviour
     private float spawnZMax = 25; // set max spawn Z
 
     public int enemyCount;
-    public int waveCount = 2;
+    public int waveCount = 1;
     public float enemySpeed = 10.0f;
     public float difficultyIncrease = 5.0f;
 
